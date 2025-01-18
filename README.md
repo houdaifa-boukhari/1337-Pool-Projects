@@ -1,7 +1,5 @@
 # 42 School Pool Progress
 
-![42 Logo](https://upload.wikimedia.org/wikipedia/commons/8/8d/42_Logo.png)
-
 Welcome to my 42 School Pool progress repository! This repo tracks my journey through the **Pool**, the intensive selection process at 42 School. Here, you'll find a record of the projects I completed during my time in the Pool, as well as my reflections on the experience.
 
 ---
