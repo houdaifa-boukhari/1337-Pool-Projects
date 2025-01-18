@@ -29,19 +29,19 @@ The **Pool** is the initial selection phase at 42 School, where students are int
 
 Here’s a list of the projects I completed during my time in the Pool:
 
-| Project Name       | Description                                                                 | Status      |
-|--------------------|-----------------------------------------------------------------------------|-------------|
-| **Shell 00**       | Introduction to shell scripting and basic commands.                         | Completed   |
-| **Shell 01**       | Advanced shell scripting: variables, conditionals, and loops.               | Completed   |
-| **C 00**           | Basics of C programming: variables, loops, and functions.                   | Completed   |
-| **C 01**           | Pointers, arrays, and strings in C.                                         | Completed   |
-| **C 02**           | Advanced string manipulation and memory management.                         | Completed   |
-| **C 03**           | Recursion and more complex algorithms.                                      | Completed   |
-| **C 04**           | Introduction to data structures and linked lists.                           | Completed   |
-| **C 05**           | Advanced data structures and algorithms.                                    | Completed   |
-| **C 06**           | Introduction to function pointers and callbacks.                            | Completed   |
-| **C 07**           | Working with macros and the preprocessor.                                   | Completed   |
-| **C 08**           | File I/O and advanced memory management.                                    | Completed   |
+| Project Name       | Description                                                                                | Status      |
+|--------------------|--------------------------------------------------------------------------------------------|-------------|
+| **Shell 00**       | Introduction to basic Unix commands and shell scripting.                                   |  Completed  |
+| **Shell 01**       | Advanced shell scripting: variables, conditionals, loops, and scripting best practices.    | Completed   |
+| **C 00**           | Basics of C programming: syntax, variables, loops, and functions.                          | Completed   |
+| **C 01**           | Understanding pointers and arrays in C.                                                    | Completed   |
+| **C 02**           | Writing and using functions, and modular programming in C.                                 | Completed   |
+| **C 03**           | String manipulation and handling in C.                                                     | Completed   |
+| **C 04**           | Advance String manipulation and handling in C.                                             | Completed   |
+| **C 05**           | Understanding and implementing recursion and recursive algorithms.                         | Completed   |
+| **C 06**           | Handling command-line arguments and program execution.                                     | Completed   |
+| **C 07**           | Dynamic memory allocation and management in C.                                             | Completed   |
+| **C 08**           | Working with structures and macros in C.                                                   | Completed   |
 
 ---
 
