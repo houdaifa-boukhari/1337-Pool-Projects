@@ -78,7 +78,7 @@ Feel free to explore the code and provide feedback!
 
 ## Author
 
-- **Your Name** - [Your GitHub](https://github.com/houdaifa-boukhari)
+- **Houdaifa El Boukhari** - [Your GitHub](https://github.com/houdaifa-boukhari)
 
 ---
 
